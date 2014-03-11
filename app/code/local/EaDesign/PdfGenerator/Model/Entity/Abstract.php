@@ -86,7 +86,7 @@ abstract class EaDesign_PdfGenerator_Model_Entity_Abstract extends Mage_Core_Mod
         return $this;
     }
 
-    /**
+    /** 
      * Get the source model for the data
      * @return Mage_Core_Model_Abstract
      */
